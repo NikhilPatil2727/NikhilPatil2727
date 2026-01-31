@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **MERN_PROJECTS**
+- 🔭 I’m currently working on **MERN Projects**
+- 🌱 I’m currently learning **MERN Stack**
+- 🌐 Check out my portfolio: **[nikhilpatil-three.vercel.app](https://nikhilpatil-three.vercel.app/)**
+- 📫 How to reach me: **nikhilpatil02436@gmail.com**
 
-- 🌱 I’m currently learning **MERN-STACK**
-
-- 📫 How to reach me **nikhilpatil02436@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
