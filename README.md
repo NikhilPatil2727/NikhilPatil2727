@@ -11,16 +11,8 @@
 - 🎓 Computer Science Engineer  
 - 🔭 Currently building **MERN Stack Projects**  
 - 🌱 Exploring **Gen AI & AI-powered apps**  
-- ⚡ I build, ship, and learn in public  
-
----
-
-### 🌐 Connect With Me
-
-- 🐦 X: https://x.com/nikhil_patil27  
-- 💼 LinkedIn: https://linkedin.com/in/nikhil-patil-967986251/  
-- ✉️ Email: nikhilpatil02436@gmail.com  
-
+- ⚡ I build, ship, and learn in public
+  
 ---
 
 ### 🚀 Tech Stack
