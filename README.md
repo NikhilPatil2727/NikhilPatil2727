@@ -1,38 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nikhil Patil</h1>
+# nikhilpatil / README.md
 
-<p align="center">
-  💻 MERN Stack Developer | 🚀 Building & Shipping | 🤖 Exploring Gen AI
-</p>
+[![Follow @nikhil_patil27](https://img.shields.io/badge/Follow-@nikhil__patil27-white?style=flat-square&logo=x&logoColor=black)](https://x.com/nikhil_patil27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Computer Science Engineer  
-- 🔭 Currently building **MERN Stack Projects**  
-- 🌱 Exploring **Gen AI & AI-powered apps**  
-- ⚡ I build, ship, and learn in public
-  
----
-
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,vercel,netlify,figma,cpp" />
-</p>
-
----
-
-### 📊 GitHub Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NikhilPatil2727&theme=dark&hide_border=false" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
-</p>
+- I build modern web applications that stand out.
+- Building **Jack UI**, a modern React component library.
+- Crafting beautiful UI components, animations, and developer tools.
+- Tech, projects, and open-source on **X**.
